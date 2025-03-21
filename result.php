@@ -1,5 +1,5 @@
 <?php
-require_once 'classes/pessoa.php';
+require_once 'classes/class.php';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Criar objeto Pessoa com os dados do formulário
